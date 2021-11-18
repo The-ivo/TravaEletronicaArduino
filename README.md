@@ -7,18 +7,19 @@ essas opções são: abrir (onde sera comparado o numero de vezes que o usuario 
 
 O projeto funciona em conjunto com um dashboard, criado no Node-Red, e protocolo firmata. Os códigos para arduino foram desenvolvidos e testados na IDE arduino.
 
-lista de materiais:
-  Arduino Uno
-  Mini trava elétrica
-  Módulo Relé 5V
-  Fonte de alimentação 12V
-  Led's
-  Buzzer ativo
-  ProtoBoard 400 furos
-  Mósulo sensor de vibração sw420 
-  Resistores 330 ohms
+**lista de materiais:**
+  <li>Arduino Uno; </li>
+  <li>Mini trava elétrica;</li>
+  <li>Módulo Relé 5V;</li>
+  <li>Fonte de alimentação 12V;</li>
+  <li>Led's;</li>
+  <li>Buzzer ativo;</li>
+  <li>ProtoBoard 400 furos;</li>
+  <li>Mósulo sensor de vibração sw420;</li>
+  <li>Resistores 330 ohms.</li>
+  <br/>
   
-  Documentação de referência:
-    Arduino IDE: https://www.arduino.cc/reference/pt/
-    Biblioteca Firmata no arduino: https://www.arduino.cc/en/reference/firmata
-    Node-Red: https://nodered.org/docs/
+  **Documentação de referência:**
+    <li>Arduino IDE: https://www.arduino.cc/reference/pt/; </li>
+    <li>Biblioteca Firmata no arduino: https://www.arduino.cc/en/reference/firmata;</li>
+    <li>Node-Red: https://nodered.org/docs/;</li>
